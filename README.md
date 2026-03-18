@@ -8,7 +8,7 @@
 * **음성/텍스트 처리 (STT/TTS 등)**: `opic.py`, `opic.ipynb` 및 오디오 파일(`.mp3`, `.wav`)을 활용한 테스트
 * **RAG 테스트 문서**: `현진건-운수좋은날+B3356-개벽.pdf` 등 로컬 문서를 활용한 데이터 추출 및 질의응답 연습
 
-## ⚙️ 주로 사용하는 환경
+##  주로 사용하는 환경
 * Python, Jupyter Notebook
 * LangChain, ChromaDB
 
