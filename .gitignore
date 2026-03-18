@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+env/
+venv/
+.env/
+
+# Secrets
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Redis data
+redis_data/
+
+# DB
+*.db
