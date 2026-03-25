@@ -4,7 +4,7 @@ from crewai import Agent, Task, Crew, Process, LLM
 from dotenv import load_dotenv
 load_dotenv()
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 
